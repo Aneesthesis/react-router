@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+  background-color: rgb(33, 31, 31);
+  color: bisque;
+  text-align: center;
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
